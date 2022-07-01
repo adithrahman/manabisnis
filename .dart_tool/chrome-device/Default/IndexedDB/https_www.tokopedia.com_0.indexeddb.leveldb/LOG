@@ -1,0 +1,6 @@
+2022/06/20-01:36:11.840 1020b Creating DB /private/var/folders/q1/b9_tmdf56r1__mg4y3j9vkww0000gn/T/flutter_tools.IK8FO0/flutter_tools_chrome_device.akzIhj/Default/IndexedDB/https_www.tokopedia.com_0.indexeddb.leveldb since it was missing.
+2022/06/20-01:36:11.858 1020b Reusing MANIFEST /private/var/folders/q1/b9_tmdf56r1__mg4y3j9vkww0000gn/T/flutter_tools.IK8FO0/flutter_tools_chrome_device.akzIhj/Default/IndexedDB/https_www.tokopedia.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/20-01:37:45.259 f207 Level-0 table #5: started
+2022/06/20-01:37:45.264 f207 Level-0 table #5: 10189 bytes OK
+2022/06/20-01:37:45.277 f207 Delete type=0 #3
+2022/06/20-01:37:45.278 f207 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
