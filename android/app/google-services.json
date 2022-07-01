@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737239123363",
+    "firebase_url": "https://manabisnis-78e16-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manabisnis-78e16",
+    "storage_bucket": "manabisnis-78e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737239123363:android:7949b4e79655dba9cc0616",
+        "android_client_info": {
+          "package_name": "com.manabisnis.manabisnis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737239123363-45dfla8up8bd93haaif2g0ffv807o0f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-0si-KGuZzSmvVMJrPjI42iEBRBeAA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737239123363-45dfla8up8bd93haaif2g0ffv807o0f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
